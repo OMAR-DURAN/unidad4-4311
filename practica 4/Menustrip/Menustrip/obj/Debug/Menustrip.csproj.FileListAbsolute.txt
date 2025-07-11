@@ -1,0 +1,29 @@
+C:\Users\ElFenix\Documents\Trabajos\UNIVERSIDAD\4to cuatr\New folder\lenguaje de programacion 1\ejercicios unidad 4\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.csproj.AssemblyReference.cache
+C:\Users\ElFenix\Documents\Trabajos\UNIVERSIDAD\4to cuatr\New folder\lenguaje de programacion 1\ejercicios unidad 4\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.MDIParent1.resources
+C:\Users\ElFenix\Documents\Trabajos\UNIVERSIDAD\4to cuatr\New folder\lenguaje de programacion 1\ejercicios unidad 4\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.Properties.Resources.resources
+C:\Users\ElFenix\Documents\Trabajos\UNIVERSIDAD\4to cuatr\New folder\lenguaje de programacion 1\ejercicios unidad 4\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.csproj.GenerateResource.cache
+C:\Users\ElFenix\Documents\Trabajos\UNIVERSIDAD\4to cuatr\New folder\lenguaje de programacion 1\ejercicios unidad 4\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.csproj.CoreCompileInputs.cache
+C:\Users\ElFenix\Documents\Trabajos\UNIVERSIDAD\4to cuatr\New folder\lenguaje de programacion 1\ejercicios unidad 4\practica 2\Menustrip\Menustrip\bin\Debug\Menustrip.exe.config
+C:\Users\ElFenix\Documents\Trabajos\UNIVERSIDAD\4to cuatr\New folder\lenguaje de programacion 1\ejercicios unidad 4\practica 2\Menustrip\Menustrip\bin\Debug\Menustrip.exe
+C:\Users\ElFenix\Documents\Trabajos\UNIVERSIDAD\4to cuatr\New folder\lenguaje de programacion 1\ejercicios unidad 4\practica 2\Menustrip\Menustrip\bin\Debug\Menustrip.pdb
+C:\Users\ElFenix\Documents\Trabajos\UNIVERSIDAD\4to cuatr\New folder\lenguaje de programacion 1\ejercicios unidad 4\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.exe
+C:\Users\ElFenix\Documents\Trabajos\UNIVERSIDAD\4to cuatr\New folder\lenguaje de programacion 1\ejercicios unidad 4\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.pdb
+C:\Users\ElFenix\Documents\Trabajos\UNIVERSIDAD\4to cuatr\New folder\lenguaje de programacion 1\ejercicios unidad 4\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.MENU.resources
+C:\Users\ElFenix\Documents\Trabajos\UNIVERSIDAD\4to cuatr\New folder\lenguaje de programacion 1\ejercicios unidad 4\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.Form2.resources
+C:\Users\ElFenix\Documents\Trabajos\UNIVERSIDAD\4to cuatr\New folder\lenguaje de programacion 1\ejercicios unidad 4\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.Form3.resources
+C:\Users\ElFenix\Documents\Trabajos\UNIVERSIDAD\4to cuatr\New folder\lenguaje de programacion 1\ejercicios unidad 4\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.Form4.resources
+C:\Users\ElFenix\Desktop\practica 2\Menustrip\Menustrip\bin\Debug\Menustrip.exe.config
+C:\Users\ElFenix\Desktop\practica 2\Menustrip\Menustrip\bin\Debug\Menustrip.exe
+C:\Users\ElFenix\Desktop\practica 2\Menustrip\Menustrip\bin\Debug\Menustrip.pdb
+C:\Users\ElFenix\Desktop\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.csproj.AssemblyReference.cache
+C:\Users\ElFenix\Desktop\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.exe.config
+C:\Users\ElFenix\Desktop\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.Menu.resources
+C:\Users\ElFenix\Desktop\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.Form2.resources
+C:\Users\ElFenix\Desktop\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.Form3.resources
+C:\Users\ElFenix\Desktop\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.Form4.resources
+C:\Users\ElFenix\Desktop\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.MDIParent1.resources
+C:\Users\ElFenix\Desktop\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.Properties.Resources.resources
+C:\Users\ElFenix\Desktop\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.csproj.GenerateResource.cache
+C:\Users\ElFenix\Desktop\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.csproj.CoreCompileInputs.cache
+C:\Users\ElFenix\Desktop\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.exe
+C:\Users\ElFenix\Desktop\practica 2\Menustrip\Menustrip\obj\Debug\Menustrip.pdb
